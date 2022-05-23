@@ -1,0 +1,8 @@
+---
+- !ruby/object:Hangman
+  word: 'casual
+
+    '
+  lives: 6
+  incorrect_guess: []
+  word_size: c _ _ _ _ _
